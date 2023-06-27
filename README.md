@@ -12,5 +12,5 @@ For memory:
 ```
 
 ## Picture
-![photo_2023-06-27_13-08-35](https://github.com/glebov-evgeny/react-native-goals/assets/35433087/bf6062ac-7b0e-43e2-a011-1e6a5e19d837)
+![sd](https://github.com/glebov-evgeny/react-native-goals/assets/35433087/64912b25-229d-4462-8c78-b804cecd0d91)
 
